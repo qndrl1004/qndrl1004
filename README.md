@@ -1,11 +1,12 @@
 
-<div align=center>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqndrl1004&count_bg=%233DC87E&title_bg=%23555555&icon=datadog.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MyProfile&fontSize=70&animation=twinkling"/>
 
-<h1><img width="32" height="32" src="https://img.icons8.com/arcade/64/sheets.png" alt="sheets"/>My Tech Stack</h1>
 
-<h2>Language</h2>
+<h1><img width="28" height="28" src="https://img.icons8.com/arcade/64/sheets.png" alt="sheets"/>My Tech Stack</h1>
+
+<div align=center><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqndrl1004&count_bg=%233DC87E&title_bg=%23555555&icon=datadog.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> </div>
+
+<p>Language</p>
 <div align=center>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -13,7 +14,7 @@
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
-<h2>FrontEnd</h2>
+##FrontEnd
 <div align=center>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -22,7 +23,7 @@
   <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 
-<h2>BackEnd</h2>
+##BackEnd
 <div align=center>
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -44,8 +45,7 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
 </div>
 
