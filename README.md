@@ -69,7 +69,8 @@
   <img src="https://img.shields.io/badge/reactnative-61DAFB?style=for-the-badge&logo=reactnative&logoColor=white">
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
-
+<br>
+<br>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qndrl1004&layout=compact"><br><br>
 </div>
