@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MyStack&fontSize=70&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MyStack&fontSize=70&animation=twinkling"/>
 
 <div align=center>
   <h3>Language</h3>  
@@ -74,5 +74,7 @@
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qndrl1004&layout=compact"><br><br>
 </div>
-
+<br>
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&animation=twinkling"/>
 
