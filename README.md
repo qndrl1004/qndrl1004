@@ -3,10 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MyStack&fontSize=70&animation=twinkling"/>
 
 <!-- 언어 -->
-<details>
-  <summary>Language</summary>
+<!-- <details>
+ <summary>Language</summary>
   <div align="center">
-  
+    <h3>Language</h3> -->
+  <details style="display: flex; flex-wrap: wrap;">
+  <summary style="flex: 1; cursor: pointer; padding: 10px; background-color: #f0f0f0; border-bottom: 1px solid #ccc; border-radius: 5px 5px 0 0;">Language</summary>
+  <div align="center" style="flex: 1; opacity: 0; transition: opacity 0.5s ease-in-out; padding: 10px; background-color: #f9f9f9; border-radius: 0 0 5px 5px;">
       <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
       <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
       <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
