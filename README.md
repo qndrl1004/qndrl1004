@@ -19,10 +19,13 @@
 </details>
 
 <!-- 프론트엔드 -->
-<details>
+<!-- <details>
   <summary>FrontEnd</summary>
   <div align="center">
-    <h3>FrontEnd</h3>
+    <h3>FrontEnd</h3> -->
+   <details style="display: flex; flex-wrap: wrap;">
+  <summary style="flex: 1; cursor: pointer; padding: 10px; background-color: #f0f0f0; border-bottom: 1px solid #ccc; border-radius: 5px 5px 0 0;">FrontEnd</summary>
+  <div align="center" style="flex: 1; opacity: 0; transition: opacity 0.5s ease-in-out; padding: 10px; background-color: #f9f9f9; border-radius: 0 0 5px 5px;">
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white">
