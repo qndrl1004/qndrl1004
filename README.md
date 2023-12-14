@@ -7,7 +7,6 @@
 <details>
   <summary><h2>Language<h2></summary>
   <div align="center">
-    <h3>Language</h3> 
       <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
       <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
       <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -18,9 +17,8 @@
 
 <!-- 프론트엔드 -->
 <details>
-  <summary>FrontEnd</summary>
+  <summary><h2>FrontEnd<h2></summary>
   <div align="center">
-    <h3>FrontEnd</h3> 
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white">
@@ -37,9 +35,8 @@
 
 <!-- 백엔드 -->
 <details>
-  <summary>BackEnd</summary>
+  <summary><h2>BackEnd<h2></summary>
   <div align="center">
-    <h3>BackEnd</h3>  
         <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
         <img src="https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white">
         <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
@@ -51,9 +48,8 @@
 
 <!-- 데이터베이스 -->
 <details>
-  <summary>DataBase</summary>
+  <summary><h2>DataBase<h2></summary>
   <div align="center">
-    <h3>DataBase</h3>  
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
@@ -65,9 +61,8 @@
 
 <!-- 데브옵스/모바일 -->
 <details>
-  <summary>DevOps/Mobile</summary>
+  <summary><h2>DevOps/Mobile<h2></summary>
   <div align="center">
-    <h3>DevOps/Mobile</h3>  
       <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
       <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white">
       <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
