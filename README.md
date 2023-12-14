@@ -70,5 +70,7 @@
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qndrl1004&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=qndrl1004&show_icons=true">
 
 
