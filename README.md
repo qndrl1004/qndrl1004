@@ -4,7 +4,7 @@
 
 <!-- 언어 -->
 <details>
- <summary>Language</summary>
+  <summary>Language</summary>
   <div align="center">
     <h3>Language</h3> 
       <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
