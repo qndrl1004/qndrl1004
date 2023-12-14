@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MyStack&fontSize=70&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=orange&height=200&section=header&text=MyStack&fontSize=70&animation=twinkling"/>
 
 <div align=center>
   <h3>Language</h3>  
@@ -76,5 +76,5 @@
 </div>
 <br>
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=orange&height=200&section=footer&animation=twinkling"/>
 
