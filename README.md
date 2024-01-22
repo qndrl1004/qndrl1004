@@ -15,8 +15,8 @@
 
 
 <!-- 프론트엔드 -->
-<details>
-  <summary><h2>FrontEnd<h2></summary>
+
+<h2>FrontEnd<h2>
   <div align="center">
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -24,7 +24,7 @@
         <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
         <img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </div>
-</details>
+
 
 <!-- 백엔드 -->
 <details>
