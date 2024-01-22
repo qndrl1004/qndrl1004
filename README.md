@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MyStack&fontSize=70&animation=twinkling"/>
 
 <!-- 언어 -->
-<details>
+
  <summary><h2>Language<h2></summary>
   <div align="center">
       <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   </div>
-</details>
+
 
 <!-- 프론트엔드 -->
 <details>
