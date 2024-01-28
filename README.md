@@ -1,11 +1,9 @@
-
-
 <!-- 상단 박스 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MyStack&fontSize=70&animation=twinkling"/>
 
 <!-- 언어 -->
 
-<h2>Language<h2>
+<h2>Language</h2> <!-- 주석을 닫아주기 위해 </h2>를 추가합니다 -->
   <div align="center">
       <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
       <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
@@ -13,10 +11,9 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   </div>
 
-
 <!-- 프론트엔드 -->
 
-<h2>FrontEnd<h2>
+<h2>FrontEnd</h2> <!-- 주석을 닫아주기 위해 </h2>를 추가합니다 -->
   <div align="center">
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -25,10 +22,9 @@
         <img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </div>
 
-
 <!-- 백엔드 -->
 
-<h2>BackEnd<h2>
+<h2>BackEnd</h2> <!-- 주석을 닫아주기 위해 </h2>를 추가합니다 -->
   <div align="center">
         <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
         <img src="https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white">
@@ -37,10 +33,9 @@
         <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   </div>
 
-
 <!-- 데이터베이스 -->
 
-<h2>DataBase<h2>
+<h2>DataBase</h2> <!-- 주석을 닫아주기 위해 </h2>를 추가합니다 -->
   <div align="center">
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -50,10 +45,9 @@
         <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
   </div>
 
-
 <!-- 데브옵스/모바일 -->
 
-<h2>DevOps/Mobile<h2>
+<h2>DevOps/Mobile</h2> <!-- 주석을 닫아주기 위해 </h2>를 추가합니다 -->
   <div align="center">
       <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
       <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white">
@@ -63,7 +57,5 @@
       <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   </div>
 
-
 <!-- 하단 박스 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&animation=twinkling"/>
-
