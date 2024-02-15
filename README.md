@@ -7,7 +7,6 @@
       <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
       <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
       <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
       <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
       <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   </div>
@@ -15,8 +14,6 @@
 <!-- 프론트엔드 -->
 <h2>FrontEnd</h2><!--
   --><div align="center">
-        <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
         <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
         <img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
@@ -27,11 +24,8 @@
 <!-- 백엔드 -->
 <h2>BackEnd</h2><!--
   --><div align="center">
-        <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-        <img src="https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white">
         <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
         <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-        <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   </div>
 
 <!-- 데이터베이스 -->
@@ -56,5 +50,4 @@
       <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   </div>
 
-<!-- 하단 박스 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&animation=twinkling"/>
+
